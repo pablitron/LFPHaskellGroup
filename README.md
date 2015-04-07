@@ -1,2 +1,3 @@
 # LFPHaskellGroup
-Playground for messing up with Haskell
+Playground for messing around with Haskell.
+
